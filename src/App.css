@@ -60,3 +60,17 @@ section > p {
   line-height: 150%;
   font-size: 0.75rem;
 }
+
+footer {
+  height: 64px;
+  display: flex;
+  background-color: #161619;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 3em;
+}
+
+i.fa-brands {
+  color: #918E9B;
+  font-size: 2rem;
+}
