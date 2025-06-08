@@ -5,5 +5,42 @@
 html, body {
   margin: 0;
   padding: 0;
+}
+
+body {
   font-family: "Inter", sans-serif;
+  background-color: #1A1B21;
+}
+
+header {
+  text-align: center;
+}
+
+img {
+  width: 100%;
+}
+
+h1 {
+  color: #FFFFFF;
+}
+
+.job-title {
+  color: #F3BF99;
+  margin-top: -10px;
+}
+
+.username {
+  color: #F5F5F5;
+  font-size: 0.75rem;
+  font-weight: lighter;
+  margin-top: -10px;
+}
+
+button {
+  font-family: inherit;
+  height: 34px;
+  width: 247px;
+  background-color: white;
+  border: none;
+  border-radius: 6px;
 }
