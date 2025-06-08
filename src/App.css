@@ -44,3 +44,19 @@ button {
   border: none;
   border-radius: 6px;
 }
+
+section {
+  padding: 0 1.5em;
+}
+
+h2 {
+  color: #F5F5F5;
+  margin-bottom: 0;
+}
+
+section > p {
+  margin-top: 5px;
+  color: #DCDCDC;
+  line-height: 150%;
+  font-size: 0.75rem;
+}
